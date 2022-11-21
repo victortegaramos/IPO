@@ -1,0 +1,78 @@
+body{
+    font-size: 140%;
+    max-width: 1024px;
+}
+
+header nav {
+
+    position: absolute;
+    top: 130px;
+    width: 65%;
+    background-color: #cfcfcfaf;
+    text-align:center;
+
+}
+
+nav ul {
+    list-style: none;
+
+
+}
+
+h1{
+    font-size: 75px;
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 40px;
+}
+
+h2#caracteristicas{
+    text-align: center;
+}
+h2#funcionalidad{
+    text-align: center;
+}
+h2#acerca{
+    text-align: center;
+}
+
+img#img1{
+    width: 90%;
+    position: relative;
+    top: 40px;
+    display:block;
+    margin:auto;
+
+}
+
+img#img2{
+    width: 40%;
+    display:block;
+    margin:auto;
+}
+
+img#img3{
+    width: 50%;
+    display:block;
+    margin:auto;
+}
+
+section#final{
+    position: absolute;
+    top: 1850px;
+    width: 65%;
+
+    list-style: none;
+
+    background-color: #cfcfcfaf;
+
+
+}
+
+div{
+    text-align: center;
+}
+
